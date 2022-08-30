@@ -4,3 +4,6 @@ https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&color_mode=aut
 https://www.yumpu.com/en/document/read/65548120/ifood-data-analyst-case
 
 
+
+https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression#lasso-regression-for-regularization
+
